@@ -1,0 +1,13 @@
+{
+  "name": "hytale-downloader",
+  "version": "1.0.0",
+  "description": "hytale-downloader reimplementation",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Domenico Landriscina",
+  "license": "GPL-3.0-only",
+  "dependencies": {}
+}

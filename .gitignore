@@ -1,0 +1,4 @@
+.hytale-downloader-credentials.json
+.last-downloaded
+*.zip
+package-lock.json
